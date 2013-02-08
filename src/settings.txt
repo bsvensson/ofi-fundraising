@@ -1,0 +1,8 @@
+popuptitle=Sponsor this land
+addtocartlabel=Add to cart
+checkoutlabel=Go to Checkout
+continueshoppinglabel=Continue shopping
+landaddedlabel=You just added some land to your cart.
+landaddedtitle=Thank you!
+availableserviceurl=http://50.17.189.227/ArcGIS/rest/services/OFIBorneoLandProtection/MapServer/0
+sponsoredserviceurl=http://50.17.189.227/ArcGIS/rest/services/OFIBorneoLandProtection/MapServer/1
